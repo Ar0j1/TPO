@@ -1,0 +1,11 @@
+D:\BSTU\3kurs\TPO\TPO\Lab7\CalculatorTest\bin\Debug\net6.0\CalculatorTest.deps.json
+D:\BSTU\3kurs\TPO\TPO\Lab7\CalculatorTest\bin\Debug\net6.0\CalculatorTest.dll
+D:\BSTU\3kurs\TPO\TPO\Lab7\CalculatorTest\bin\Debug\net6.0\CalculatorTest.pdb
+D:\BSTU\3kurs\TPO\TPO\Lab7\CalculatorTest\obj\Debug\net6.0\CalculatorTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\BSTU\3kurs\TPO\TPO\Lab7\CalculatorTest\obj\Debug\net6.0\CalculatorTest.AssemblyInfoInputs.cache
+D:\BSTU\3kurs\TPO\TPO\Lab7\CalculatorTest\obj\Debug\net6.0\CalculatorTest.AssemblyInfo.cs
+D:\BSTU\3kurs\TPO\TPO\Lab7\CalculatorTest\obj\Debug\net6.0\CalculatorTest.csproj.CoreCompileInputs.cache
+D:\BSTU\3kurs\TPO\TPO\Lab7\CalculatorTest\obj\Debug\net6.0\CalculatorTest.dll
+D:\BSTU\3kurs\TPO\TPO\Lab7\CalculatorTest\obj\Debug\net6.0\refint\CalculatorTest.dll
+D:\BSTU\3kurs\TPO\TPO\Lab7\CalculatorTest\obj\Debug\net6.0\CalculatorTest.pdb
+D:\BSTU\3kurs\TPO\TPO\Lab7\CalculatorTest\obj\Debug\net6.0\ref\CalculatorTest.dll
