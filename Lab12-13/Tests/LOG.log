@@ -1,0 +1,102 @@
+[05.12.2023 08:15:00] Driver started!
+[05.12.2023 08:15:45] CyrillicSearchTest ended with [False] result!
+[05.12.2023 08:15:47] Driver stoped!
+[05.12.2023 08:17:02] Driver started!
+[05.12.2023 08:17:08] DeleteFromWishlist ended with [True] result!
+[05.12.2023 08:17:10] Driver stoped!
+[05.12.2023 08:17:54] Driver started!
+[05.12.2023 08:18:01] DeleteFromWishlist ended with [True] result!
+[05.12.2023 08:18:03] Driver stoped!
+[05.12.2023 08:18:38] Driver started!
+[05.12.2023 08:18:43] DeleteFromWishlist ended with [True] result!
+[05.12.2023 08:18:43] Driver started!
+[05.12.2023 08:19:08] DeleteFromWishlist ended with [True] result!
+[05.12.2023 08:19:08] Driver started!
+[05.12.2023 08:19:43] CyrillicSearchTest ended with [False] result!
+[05.12.2023 08:19:43] Driver started!
+[05.12.2023 08:19:50] DeleteFromWishlist ended with [True] result!
+[05.12.2023 08:19:50] Driver started!
+[05.12.2023 08:20:13] NoMoneyBuyTest ended with [В кошельке Steam недостаточно средств для совершения операции!] result!
+[05.12.2023 08:21:00] Driver started!
+[05.12.2023 08:21:05] DeleteFromWishlist ended with [True] result!
+[05.12.2023 08:21:06] Driver stoped!
+[05.12.2023 08:21:09] Driver started!
+[05.12.2023 08:21:24] DeleteFromWishlist ended with [True] result!
+[05.12.2023 08:21:25] Driver stoped!
+[05.12.2023 08:21:29] Driver started!
+[05.12.2023 08:22:04] CyrillicSearchTest ended with [False] result!
+[05.12.2023 08:22:06] Driver stoped!
+[05.12.2023 08:22:10] Driver started!
+[05.12.2023 08:31:01] Driver stoped!
+[05.12.2023 08:31:03] Driver stoped!
+[05.12.2023 08:31:06] Driver stoped!
+[05.12.2023 08:31:08] Driver stoped!
+[05.12.2023 08:31:10] Driver stoped!
+[05.12.2023 08:31:28] Driver started!
+[05.12.2023 08:31:33] DeleteFromWishlist ended with [True] result!
+[05.12.2023 08:31:34] Driver stoped!
+[05.12.2023 08:31:38] Driver started!
+[05.12.2023 08:31:47] DeleteFromWishlist ended with [True] result!
+[05.12.2023 08:31:49] Driver stoped!
+[05.12.2023 08:31:52] Driver started!
+[05.12.2023 08:32:27] CyrillicSearchTest ended with [False] result!
+[05.12.2023 08:32:29] Driver stoped!
+[05.12.2023 08:32:32] Driver started!
+[05.12.2023 08:32:39] DeleteFromWishlist ended with [True] result!
+[05.12.2023 08:32:40] Driver stoped!
+[05.12.2023 08:32:44] Driver started!
+[05.12.2023 08:32:52] NoMoneyBuyTest ended with [В кошельке Steam недостаточно средств для совершения операции!] result!
+[05.12.2023 08:32:54] Driver stoped!
+[09.12.2023 20:04:43] Driver started!
+[09.12.2023 20:04:46] AddskinToCart ended with [True] result!
+[09.12.2023 20:04:48] Driver stoped!
+[09.12.2023 20:05:09] Driver started!
+[09.12.2023 20:05:12] AddskinToCart ended with [True] result!
+[09.12.2023 20:05:14] Driver stoped!
+[09.12.2023 20:05:50] Driver started!
+[09.12.2023 20:06:19] AddskinToCart ended with [True] result!
+[09.12.2023 20:06:28] Driver stoped!
+[09.12.2023 20:07:42] Driver started!
+[09.12.2023 20:08:16] Driver started!
+[09.12.2023 20:11:23] Driver started!
+[09.12.2023 20:55:17] Driver started!
+[09.12.2023 20:56:49] Driver started!
+[09.12.2023 20:57:46] Driver started!
+[09.12.2023 20:59:20] Driver started!
+[09.12.2023 20:59:52] AddskinToCart ended with [False] result!
+[09.12.2023 20:59:53] Driver stoped!
+[09.12.2023 21:00:24] Driver started!
+[09.12.2023 21:00:57] AddskinToCart ended with [False] result!
+[09.12.2023 21:00:58] Driver stoped!
+[09.12.2023 21:01:38] Driver started!
+[09.12.2023 21:01:40] AddskinToCart: Cart is empty
+[09.12.2023 21:01:40] AddskinToCart ended with [False] result!
+[09.12.2023 21:01:42] Driver stoped!
+[09.12.2023 21:02:14] Driver started!
+[09.12.2023 21:03:24] Driver started!
+[09.12.2023 21:03:38] AddskinToCart: Cart is empty
+[09.12.2023 21:03:41] AddskinToCart ended with [False] result!
+[09.12.2023 21:03:51] Driver stoped!
+[09.12.2023 21:05:05] Driver started!
+[09.12.2023 21:05:15] AddskinToCart: Cart is empty
+[09.12.2023 21:05:18] AddskinToCart ended with [False] result!
+[09.12.2023 21:08:26] Driver started!
+[09.12.2023 21:08:28] AddskinToCart ended with [True] result!
+[09.12.2023 21:10:06] Driver started!
+[09.12.2023 21:10:22] AddskinToCart ended with [True] result!
+[09.12.2023 21:10:31] Driver stoped!
+[09.12.2023 21:13:55] Driver started!
+[09.12.2023 21:13:57] AddskinToCart ended with [True] result!
+[09.12.2023 21:13:59] Driver stoped!
+[09.12.2023 21:14:06] Driver started!
+[09.12.2023 21:14:18] NoTradeLink ended with [True] result!
+[09.12.2023 21:14:19] Driver stoped!
+[09.12.2023 21:14:23] Driver started!
+[09.12.2023 21:14:26] RemoveAllFromCart ended with [True] result!
+[09.12.2023 21:14:27] Driver stoped!
+[09.12.2023 21:14:31] Driver started!
+[09.12.2023 21:14:34] RemoveoncefromCart ended with [True] result!
+[09.12.2023 21:14:35] Driver stoped!
+[09.12.2023 21:14:39] Driver started!
+[09.12.2023 21:14:56] SellingTest ended with [False] result!
+[09.12.2023 21:14:58] Driver stoped!

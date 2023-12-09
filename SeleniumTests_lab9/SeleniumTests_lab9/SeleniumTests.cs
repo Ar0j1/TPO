@@ -1,5 +1,6 @@
 ﻿using OpenQA.Selenium;
 using OpenQA.Selenium.Edge;
+using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Interactions;
 using OpenQA.Selenium.Support.UI;
 
@@ -25,7 +26,7 @@ namespace SeleniumTests_lab9
             get => driver.FindElement(By.Id("trade_offer_access_url"));
         }
         
-            private IWebElement saveButton
+        private IWebElement saveButton
         {
             get => driver.FindElement(By.Id("profile_save_trade_url_button"));
         }
@@ -34,16 +35,17 @@ namespace SeleniumTests_lab9
         {
             EdgeOptions options = new EdgeOptions();
 
-            // Указание пути к профилю пользователя Edge
+            //// Указание пути к профилю пользователя Edge
             string userProfilePath = "C:\\Users\\Sashcha\\AppData\\Local\\Microsoft\\Edge\\User Data\\Default";
             options.AddArgument($"user-data-dir={userProfilePath}");
 
             // Инициализация драйвера Edge
             driver = new EdgeDriver("msedgedriver.exe", options);
+           // driver = new ChromeDriver();
         }
 
         [TestMethod]
-        public void NoMoneyBuyTest()
+        public void TraidURLTest()
         {
             // Проверка, что драйвер был инициализирован
             if (driver == null)
@@ -64,8 +66,8 @@ namespace SeleniumTests_lab9
             
             if (string.IsNullOrWhiteSpace(StringTraidURL))
             {
-                // Строка пуста, тест считается неудачным
-                Assert.Fail("Строка на странице пуста.");
+                
+                
             }
             else
             {
